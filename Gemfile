@@ -11,6 +11,9 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'faker',          '1.7.3' #実際にいそうなユーザー名を作成するgem
+gem 'carrierwave',             '1.1.0' #画像アップローダー
+gem 'mini_magick',             '4.7.0'
+gem 'fog-aws',                 '2.0.0'
 gem 'will_paginate',           '3.1.5' #ページネーション用
 gem 'bootstrap-will_paginate', '1.0.0' #ページネーション用
 
